@@ -20,6 +20,8 @@
             }
         </style>
     </head>
+    <center><a href="/student"><strong><h2>Students Page</h2></strong></a></center>
+    <center><a href="/course"><strong><h2>Course Page</h2></strong></a></center>
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
             @if (Route::has('login'))

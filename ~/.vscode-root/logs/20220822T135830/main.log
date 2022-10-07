@@ -1,0 +1,6 @@
+[2022-08-22 13:58:30.233] [main] [info] update#setState idle
+[2022-08-22 13:58:31.954] [main] [info] Starting extension host with pid 16121 (fork() took 10 ms).
+[2022-08-22 13:59:00.249] [main] [info] update#setState checking for updates
+[2022-08-22 13:59:00.253] [main] [info] update#setState idle
+[2022-08-22 13:59:07.641] [main] [info] Waiting for extension host with pid 16121 to exit.
+[2022-08-22 13:59:07.666] [main] [info] Extension host with pid 16121 exited with code: 0, signal: null.
